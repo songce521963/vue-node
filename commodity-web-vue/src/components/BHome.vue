@@ -31,7 +31,7 @@ export default {
     overflow-x:hidden;
 }
 .left{
-      position:absolute;
+      position:fixed;
       height:100%;
       top:50px;
       left:0;
