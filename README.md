@@ -1,4 +1,7 @@
 # vue-node
+node -v
+v6.9.2
+
 # server
 cd commodity-nodejs
 
